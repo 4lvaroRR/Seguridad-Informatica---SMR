@@ -3,5 +3,5 @@ Materiales y recursos del módulo de Seguridad Informática en el ciclo de grado
 
 Estos materiales están a disposición de quien los quiera utilizar (docentes, estudiantes, etc.). Se agradece cualquier sugerencia o aportación.
 
-Álvaro Rdoríguez
+Álvaro Rodríguez
 IES Alonso de MAdrigal (Ávila)
